@@ -23,7 +23,7 @@ neural network classification**
 | Model         | training set loss         | validation set loss  |
 | ------------- |:-------------:| -----:|
 | DNN      | ~0.22 | ~0.20 |
-| CNN      | ~0.01      |   ~0.05 |
+| CNN      | ~0.05      |   ~0.03 |
 
 
 
@@ -41,4 +41,4 @@ neural network classification**
 | Model         | training accuracy         | validation accuracy  |
 | ------------- |:-------------:| -----:|
 | DNN      | ~93% | ~94% |
-| CNN      | ~99.8%      |   ~98.7% |
+| CNN      | ~98.7%      |   ~99% |
